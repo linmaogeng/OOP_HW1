@@ -1,0 +1,756 @@
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (12.0,12.0) with radius of 12.0
+The second circle is center at (12.0,12.0) with radius of 12.0
+These two circles are completely within one another
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (12.0,12.0) with radius of 12.0
+The second circle is center at (12.0,10.0) with radius of 10.0
+These two circles are completely within one another
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (12.0,12.0) with radius of 10.0
+The second circle is center at (10.0,10.0) with radius of 10.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (10.0,10.0) with radius of 12.0
+The second circle is center at (12.0,10.0) with radius of 10.0
+These two circles are completely within one another
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (-12.0,-12.0) with radius of 10.0
+The second circle is center at (10.0,11.0) with radius of 11.0
+These two circles are separate from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (12.0,12.0) with radius of 11.0
+The second circle is center at (11.0,10.0) with radius of 10.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (12.0,12.0) with radius of 12.0
+The second circle is center at (12.0,11.0) with radius of 11.0
+These two circles are completely within one another
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (10.0,10.0) with radius of 12.0
+The second circle is center at (12.0,20.0) with radius of 10.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+a isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (10.0,20.0) with radius of 10.0
+The second circle is center at (10.0,11.0) with radius of 11.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+das isn't a valid input
+
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (12.0,12.0) with radius of 11.0
+The second circle is center at (11.0,10.0) with radius of 10.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (12.0,12.0) with radius of 12.0
+The second circle is center at (12.0,11.0) with radius of 11.0
+These two circles are completely within one another
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+s12ds isn't a valid input
+
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (10.0,10.0) with radius of 12.0
+The second circle is center at (12.0,20.0) with radius of 10.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (10.0,20.0) with radius of 12.0
+The second circle is center at (10.0,-12.0) with radius of 11.0
+These two circles are separate from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+11sa isn't a valid radius
+
+Please enter the radius of this circle
+The first circle is center at (12.0,12.0) with radius of 12.0
+The second circle is center at (10.0,11.0) with radius of 10.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (10.0,12.0) with radius of 10.0
+The second circle is center at (11.0,-10.0) with radius of 10.0
+These two circles are separate from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (10.0,15.0) with radius of 12.0
+The second circle is center at (-12.0,10.0) with radius of 10.0
+These two circles are separate from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (15.0,54.0) with radius of 12.0
+The second circle is center at (51.0,21.0) with radius of 41.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+dsa12 isn't a valid input
+
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (45.0,15.0) with radius of 12.0
+The second circle is center at (15.0,12.0) with radius of 15.0
+These two circles are separate from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (15.0,12.0) with radius of 31.0
+The second circle is center at (12.0,43.0) with radius of 12.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (15.0,21.0) with radius of 15.0
+The second circle is center at (21.0,43.0) with radius of 15.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (12.0,10.0) with radius of 11.0
+The second circle is center at (12.0,12.0) with radius of 12.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+The first circle is center at (10.0,11.0) with radius of 10.0
+The second circle is center at (10.0,12.0) with radius of 10.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (11.0,-10.0) with radius of 10.0
+The second circle is center at (10.0,15.0) with radius of 12.0
+These two circles are separate from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (-12.0,10.0) with radius of 10.0
+The second circle is center at (15.0,54.0) with radius of 12.0
+These two circles are separate from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (51.0,21.0) with radius of 41.0
+The second circle is center at (45.0,15.0) with radius of 12.0
+These two circles are completely within one another
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (15.0,12.0) with radius of 15.0
+The second circle is center at (15.0,12.0) with radius of 31.0
+These two circles are completely within one another
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (12.0,43.0) with radius of 12.0
+The second circle is center at (15.0,21.0) with radius of 15.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+a isn't a valid radius
+
+Please enter the radius of this circle
+The first circle is center at (21.0,43.0) with radius of 15.0
+The second circle is center at (12.0,12.0) with radius of 12.0
+These two circles are separate from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (12.0,12.0) with radius of 12.0
+The second circle is center at (12.0,12.0) with radius of 12.0
+These two circles are completely within one another
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (12.0,10.0) with radius of 10.0
+The second circle is center at (12.0,12.0) with radius of 10.0
+These two circles are overlapping from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+The first circle is center at (10.0,10.0) with radius of 10.0
+The second circle is center at (10.0,10.0) with radius of 12.0
+These two circles are completely within one another
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+a isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-10.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+The first circle is center at (12.0,10.0) with radius of 10.0
+The second circle is center at (-12.0,-12.0) with radius of 12.0
+These two circles are separate from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+
+Setting up the coordinate and radius for the circle #2
+Please enter the x value for this coordinate.
+Please enter the y value for this coordinate.
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+-11.0 isn't a valid radius
+
+Please enter the radius of this circle
+The first circle is center at (-10.0,-10.0) with radius of 11.5
+The second circle is center at (-33.0,-10.0) with radius of 11.5
+These two circles are touching from each other
+
+
+Setting up the coordinate and radius for the circle #1
+Please enter the x value for this coordinate.

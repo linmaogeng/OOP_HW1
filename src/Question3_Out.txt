@@ -1,0 +1,15 @@
+The integer you get is 2 and the name of this month is February
+The integer you get is 11 and the name of this month is November
+The integer you get is 8 and the name of this month is August
+The integer you get is 12 and the name of this month is December
+The integer you get is 8 and the name of this month is August
+The integer you get is 7 and the name of this month is July
+The integer you get is 12 and the name of this month is December
+The integer you get is 6 and the name of this month is June
+The integer you get is 8 and the name of this month is August
+The integer you get is 2 and the name of this month is February
+The integer you get is 6 and the name of this month is June
+The integer you get is 1 and the name of this month is January
+The integer you get is 1 and the name of this month is January
+The integer you get is 8 and the name of this month is August
+The integer you get is 12 and the name of this month is December

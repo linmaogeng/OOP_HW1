@@ -1,0 +1,181 @@
+Please enter the radius of this circle
+asasd isn't a valid radius
+
+Please enter the radius of this circle
+The circle with radius 12.0 has area of 452.3893421169302
+
+Please enter the radius of this circle
+The circle with radius 12.0 has area of 452.3893421169302
+
+Please enter the radius of this circle
+The circle with radius 1.0 has area of 3.141592653589793
+
+Please enter the radius of this circle
+The circle with radius 0.0 has area of 0.0
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+The circle with radius 1545413.0 has area of 7.503069946090225E12
+
+Please enter the radius of this circle
+The circle with radius 1515.0 has area of 7210661.9983356325
+
+Please enter the radius of this circle
+sadasda isn't a valid radius
+
+Please enter the radius of this circle
+-112.0 isn't a valid radius
+
+Please enter the radius of this circle
+The circle with radius 15.0 has area of 706.8583470577034
+
+Please enter the radius of this circle
+The circle with radius 12.0 has area of 452.3893421169302
+
+Please enter the radius of this circle
+The circle with radius 15.0 has area of 706.8583470577034
+
+Please enter the radius of this circle
+asdas isn't a valid radius
+
+Please enter the radius of this circle
+The circle with radius 145.0 has area of 66051.9855417254
+
+Please enter the radius of this circle
+The circle with radius 15.0 has area of 706.8583470577034
+
+Please enter the radius of this circle
+The circle with radius 15155.0 has area of 7.215422296603985E8
+
+Please enter the radius of this circle
+The circle with radius 465163.0 has area of 6.797671890217859E11
+
+Please enter the radius of this circle
+asdas isn't a valid radius
+
+Please enter the radius of this circle
+The circle with radius 15.0 has area of 706.8583470577034
+
+Please enter the radius of this circle
+The circle with radius 15615.0 has area of 7.660089603978392E8
+
+Please enter the radius of this circle
+The circle with radius 1515.0 has area of 7210661.9983356325
+
+Please enter the radius of this circle
+The circle with radius 1515.0 has area of 7210661.9983356325
+
+Please enter the radius of this circle
+The circle with radius 151.0 has area of 71631.45409450088
+
+Please enter the radius of this circle
+sad isn't a valid radius
+
+Please enter the radius of this circle
+The circle with radius 212.0 has area of 141195.74022293967
+
+Please enter the radius of this circle
+The circle with radius 3.0 has area of 28.274333882308138
+
+Please enter the radius of this circle
+The circle with radius 12312.0 has area of 4.7621940310228163E8
+
+Please enter the radius of this circle
+The circle with radius 54343.0 has area of 9.277630941361519E9
+
+Please enter the radius of this circle
+The circle with radius 3.4254325E7 has area of 3.686215327060665E15
+
+Please enter the radius of this circle
+The circle with radius 4.3534543E7 has area of 5.954123690410723E15
+
+Please enter the radius of this circle
+The circle with radius 74654.0 has area of 1.750878611662739E10
+
+Please enter the radius of this circle
+sdfsd isn't a valid radius
+
+Please enter the radius of this circle
+3453245d isn't a valid radius
+
+Please enter the radius of this circle
+sdafsdfsd342 isn't a valid radius
+
+Please enter the radius of this circle
+dfs4352 isn't a valid radius
+
+Please enter the radius of this circle
+The circle with radius 2342.0 has area of 1.7231522607604485E7
+
+Please enter the radius of this circle
+The circle with radius 3242364.0 has area of 3.302732577531659E13
+
+Please enter the radius of this circle
+The circle with radius 2.3423423E7 has area of 1.7236559995505042E15
+
+Please enter the radius of this circle
+The circle with radius 4565345.0 has area of 6.5478252086052734E13
+
+Please enter the radius of this circle
+The circle with radius 1151.0 has area of 4161985.0890684114
+
+Please enter the radius of this circle
+sdasd isn't a valid radius
+
+Please enter the radius of this circle
+sadasd isn't a valid radius
+
+Please enter the radius of this circle
+asdas isn't a valid radius
+
+Please enter the radius of this circle
+asdsadsa isn't a valid radius
+
+Please enter the radius of this circle
+The circle with radius 232131.0 has area of 1.6928409546754434E11
+
+Please enter the radius of this circle
+asdsa isn't a valid radius
+
+Please enter the radius of this circle
+The circle with radius 121.0 has area of 45996.05804120816
+
+Please enter the radius of this circle
+-12.0 isn't a valid radius
+
+Please enter the radius of this circle
+sdads isn't a valid radius
+
+Please enter the radius of this circle
+-15846.45 isn't a valid radius
+
+Please enter the radius of this circle
+sdad isn't a valid radius
+
+Please enter the radius of this circle
+-45456.0 isn't a valid radius
+
+Please enter the radius of this circle
+sadas isn't a valid radius
+
+Please enter the radius of this circle
+--145 isn't a valid radius
+
+Please enter the radius of this circle
+-145615.545 isn't a valid radius
+
+Please enter the radius of this circle
+The circle with radius 0.0 has area of 0.0
+
+Please enter the radius of this circle
+The circle with radius 456456.0 has area of 6.54557363687091E11
+
+Please enter the radius of this circle
+The circle with radius 0.0 has area of 0.0
+
+Please enter the radius of this circle
+The circle with radius 41516.0 has area of 5.4147807869367075E9
+
+Please enter the radius of this circle
