@@ -66,6 +66,10 @@ public class Circle {
 		}
 	}
 	
+	public String toString() {
+		return "center at " + center.toString() + " with radius of " + radius;
+	}
+	
 	public double getRadius() {
 		return radius;
 	}

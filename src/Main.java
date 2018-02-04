@@ -30,7 +30,7 @@ public class Main {
 				int i=0;
 				do {
 					nextStep = false;
-					System.out.println("\n"+ "Setting up the coordinate and radius for the circle #" + (i+1));
+					System.out.println(" \n "+ "Setting up the coordinate and radius for the circle #" + (i+1));
 					
 					if(circleNumber[i].setCenter(null,userinput) && circleNumber[i++].setRadius(userinput)) {
 						nextStep = true;
@@ -39,7 +39,10 @@ public class Main {
 				}while(nextStep && i<=1);
 				
 				if(nextStep) {
-					System.out.println(relation[circleNumber[0].relationCheck(circleNumber[1])] + "\n");
+					i = circleNumber[0].relationCheck(circleNumber[1]);
+					System.out.println("The first circle is " + circleNumber[0]);
+					System.out.println("The second circle is " + circleNumber[1]);
+					System.out.println(relation[i] + "\n");
 				}
 				
 			}while(nextStep);
