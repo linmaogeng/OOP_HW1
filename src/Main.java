@@ -30,7 +30,7 @@ public class Main {
 				int i=0;
 				do {
 					nextStep = false;
-					System.out.println(" \n "+ "Setting up the coordinate and radius for the circle #" + (i+1));
+					System.out.println("\n"+ "Setting up the coordinate and radius for the circle #" + (i+1));
 					
 					if(circleNumber[i].setCenter(null,userinput) && circleNumber[i++].setRadius(userinput)) {
 						nextStep = true;
